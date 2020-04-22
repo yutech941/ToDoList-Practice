@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <form clasName="App-form">
+        <form className="App-form">
           <div>
             <input id="title" placeholder="title" />
             <textarea id="description" placeholder="description" />
