@@ -1,5 +1,19 @@
 .App {
-  text-align: center;
+  width: 800px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 8px 4px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #aaa;
 }
 
 .App-logo {
